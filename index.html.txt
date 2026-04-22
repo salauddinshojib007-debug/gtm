@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>GTM Practice</title>
+
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WRTH9XQ5');</script>
+<!-- End Google Tag Manager -->
+
+</head>
+
+<body>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WRTH9XQ5"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<h1>My Practice Website</h1>
+
+<!-- Button -->
+<h2>Button Test</h2>
+<button id="btn">Click Me</button>
+
+<hr>
+
+<!-- Link -->
+<h2>Link Test</h2>
+<a href="https://google.com" target="_blank">Go to Google</a>
+
+<hr>
+
+<!-- Fake Form -->
+<h2>Form Test</h2>
+<button onclick="window.location.href='?submitted=true'">
+  Submit Form
+</button>
+
+</body>
+</html>
